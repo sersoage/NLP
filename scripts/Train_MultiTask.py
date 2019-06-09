@@ -49,7 +49,7 @@ datasets = {
          'commentSymbol': None},
 }
 
-embeddingsPath = 'komninos_english_embeddings.gz' #Word embeddings by Levy et al: https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/
+embeddingsPath = #add embedding path
 
 # :: Prepares the dataset to be used with the LSTM-network. Creates and stores cPickle files in the pkl/ folder ::
 pickleFile = perpareDataset(embeddingsPath, datasets)
