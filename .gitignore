@@ -1,0 +1,12 @@
+*.pkl
+*.pyc
+*~
+*.gz
+*.h5
+
+models/
+data/es
+plk/
+results/
+emb/
+__pycache__/
