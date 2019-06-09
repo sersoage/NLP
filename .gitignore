@@ -10,3 +10,12 @@ plk/
 results/
 emb/
 __pycache__/
+.ipynb_checkpoints
+*.log
+*.swp
+.DS_Store
+__MACOSX
+__pycache__
+
+
+*.pyc
